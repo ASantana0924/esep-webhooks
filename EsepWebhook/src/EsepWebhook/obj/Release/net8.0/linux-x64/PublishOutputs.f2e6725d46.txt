@@ -1,0 +1,6 @@
+C:\Users\aleja\OneDrive\Desktop\UF\2024SPRING\SWE Enterprise\Assignments\event-driven-architecture\esep-webhooks\EsepWebhook\src\EsepWebhook\bin\Release\net8.0\publish\EsepWebhook.deps.json
+C:\Users\aleja\OneDrive\Desktop\UF\2024SPRING\SWE Enterprise\Assignments\event-driven-architecture\esep-webhooks\EsepWebhook\src\EsepWebhook\bin\Release\net8.0\publish\EsepWebhook.runtimeconfig.json
+C:\Users\aleja\OneDrive\Desktop\UF\2024SPRING\SWE Enterprise\Assignments\event-driven-architecture\esep-webhooks\EsepWebhook\src\EsepWebhook\bin\Release\net8.0\publish\EsepWebhook.pdb
+C:\Users\aleja\OneDrive\Desktop\UF\2024SPRING\SWE Enterprise\Assignments\event-driven-architecture\esep-webhooks\EsepWebhook\src\EsepWebhook\bin\Release\net8.0\publish\Amazon.Lambda.Core.dll
+C:\Users\aleja\OneDrive\Desktop\UF\2024SPRING\SWE Enterprise\Assignments\event-driven-architecture\esep-webhooks\EsepWebhook\src\EsepWebhook\bin\Release\net8.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\aleja\OneDrive\Desktop\UF\2024SPRING\SWE Enterprise\Assignments\event-driven-architecture\esep-webhooks\EsepWebhook\src\EsepWebhook\bin\Release\net8.0\publish\EsepWebhook.dll
